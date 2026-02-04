@@ -59,6 +59,8 @@ END
 |       1200🔢       01         12
 
 |         1200                    |
+
+
 <img width="641" height="437" alt="Screenshot 2026-02-04 112225" src="https://github.com/user-attachments/assets/aaa363a5-1461-4cf3-9afb-544f2ce885ac" />
 
 #### Manual Calculations
@@ -111,6 +113,8 @@ END
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
 |                         |                          |
+
+
 <img width="638" height="429" alt="image" src="https://github.com/user-attachments/assets/5ab070c0-1e2a-426b-95dc-78d0da9b6ac3" />
 
 #### Manual Calculations
