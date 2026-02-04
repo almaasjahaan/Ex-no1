@@ -166,6 +166,9 @@ END
 | ----------------------- | ------------------------ |
 |                         |                          |
 
+
+<img width="646" height="436" alt="image" src="https://github.com/user-attachments/assets/5db9e6ef-1446-4db5-9343-9ef92bb04c74" />
+
 #### Manual Calculations
 
 (Add your calculation here)
