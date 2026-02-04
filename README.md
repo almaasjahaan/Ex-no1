@@ -214,6 +214,10 @@ END
 | ----------------------- | ------------------------ |
 |                         |                          |
 
+
+
+<img width="639" height="427" alt="image" src="https://github.com/user-attachments/assets/1c739ccc-fb2e-469d-a0b9-498c5ec1d33c" />
+
 #### Manual Calculations
 
 (Add your calculation here)
